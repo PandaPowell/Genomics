@@ -35,4 +35,4 @@ becomes 0 etc."
 increasing alleles multiplied by their respective weights (effects; weighted
 approach)
 
-6) Polygenic scores are written to the (trait)_SNPS-(study)-DOSAGES.txt file
+6) Polygenic scores are written to the PGS-(trait)-(study).txt file
